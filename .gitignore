@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compilação .NET
+**/bin/
+**/obj/
+
+# Arquivos temporários
+*.tmp
+*.log
+*.cache
+
+# Configurações de IDE
+.idea/
+.vscode/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
