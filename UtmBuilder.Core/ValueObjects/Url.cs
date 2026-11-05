@@ -19,4 +19,9 @@ public class Url : ValueObject
     /// Address of URL (Website link)
     /// </summary>
     public string Address { get; }
+
+
+    
+
+
 }
